@@ -1,4 +1,4 @@
 slider.js
 =========
 
-sliding panels thing
+sliding panels thing.
